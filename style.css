@@ -80,6 +80,10 @@ main .container{
     box-sizing: border-box;
 }
 
+.tentang ul li{
+    list-style: none;
+}
+
 footer{
     height: 80px;
     display: flex;
